@@ -1,0 +1,24 @@
+# Main environment used for the experiments.
+numpy==1.24.4
+scipy==1.10.1
+pandas==2.0.3
+scikit-learn==1.3.2
+sympy==1.13.3
+tqdm==4.67.1
+gplearn==0.4.2
+pyoperon
+deap==1.4.3
+decorator==5.2.1
+dd==0.5.7
+quine_mccluskey==0.3
+pyeda==0.29.0
+torch==2.4.0
+torchvision==0.19.0
+julia==0.6.2
+requests==2.32.4
+gdown==5.2.0
+boolean.py==5.0
+graphviz==0.20.3
+treelib==1.8.0
+pyverilator==0.7.0
+brevitas @ git+https://github.com/Xilinx/brevitas.git@67be9b58c1c63d3923cac430ade2552d0db67ba5
